@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NEW Testing TestNG Suite">
+  <test name="My NEW Tests" verbose="2">
+    <classes>
+      <class name="org.megaprint.NewTestNGtest"/>
+      <class name="org.megaprint.NewTestNG2test"/>
+    </classes>
+  </test> <!-- testng1 -->
+</suite> <!-- Default Suite -->
